@@ -97,8 +97,8 @@ Setup Instructions
 Change these constants at the top of the code: `SPEED`, `TURN_SPEED`, `SAFE_CM`, `BACK_MS`, `TURN_MS`.
 
 Youtube demonstration link: (https://youtube.com/shorts/SYV-s3gRsK0?si=b3cIg3lfCSRtbNd0)
-Future Improvements
 
+Future Improvements
 - Add a servo to scan left and right with the sensor
 - Add side sensors for smoother avoidance
 - Add Wi-Fi or Bluetooth manual control
